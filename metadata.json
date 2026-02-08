@@ -1,0 +1,8 @@
+{
+  "name": " BotForge",
+  "description": "A premium, dark-themed AI application with a conversational chatbot, image generator, voice transformer, and real-time app builder preview.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
